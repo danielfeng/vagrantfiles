@@ -1,0 +1,1 @@
+{"virtualbox":{"/svr":{"guestpath":"/svr","hostpath":"/Users/daniel/git","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/daniel/vagrantfiles/ruby","disabled":false}}}
