@@ -9,4 +9,5 @@ This is my vagrant files by dev environment.
 
 ## Done
 ~~1. ruby 2.2 dev environment~~
+
 ~~2. docker evnironment by centos6~~
